@@ -29,7 +29,7 @@ sd-model-lister-x64.exe  [PATH_TO_STABLE_DIFFUSION_IMAGES]
 
 ### Source
 
-Make sure you've already git installed. Then you can run the following commands to get the scripts on your computer:
+Make sure you've already git installed. Then you can run the following commands to get the script on your computer:
 
 macOS, Linux, and Windows:
 
