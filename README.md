@@ -21,7 +21,11 @@ Give examples
     - sd-model-lister-arm64 for **M1 macOS**
     - sd-model-lister-x64.exe for **Windows**
 
-Download the latest [release](https://github.com/jordandraper/stable-diffusion-model-lister/releases) for your system and run from the command line.
+Download the latest [release](https://github.com/jordandraper/stable-diffusion-model-lister/releases) for your system and run from the command line as
+
+```bash
+sd-model-lister-x64.exe  [PATH_TO_STABLE_DIFFUSION_IMAGES]
+```
 
 ### Source
 
