@@ -43,6 +43,8 @@ Then depending on how Python is called by your system PATH,
 ```
 python sd_model_lister.py [PATH_TO_STABLE_DIFFUSION_IMAGES]
 ```
+## Future Enhancements
+- Integrate as a [A111 extension](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Developing-extensions)
 
 ## Versioning
 
